@@ -1,0 +1,6 @@
+{
+  "name": "VANTARE — Luxury Car Atelier Transition & Codebase",
+  "description": "Interactive reproduction, cinematic motion breakdown, and complete production codebase of the MotionSites Car Atelier transition (Vantare Atelier).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
